@@ -33,6 +33,7 @@
         <module>exercise-reflect</module>
         <module>exercise-dynamic-proxy</module>
         <module>exercise-jvm</module>
+        <module>exercise-java</module>
         <module>execrise-design-pattern</module>
     </modules>
 
