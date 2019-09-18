@@ -34,7 +34,9 @@
         <module>exercise-dynamic-proxy</module>
         <module>exercise-jvm</module>
         <module>exercise-java</module>
-        <module>execrise-design-pattern</module>
+        <module>exercise-design-pattern</module>
+        <module>exercise-moke</module>
+        <module>exercise-spring-tx</module>
     </modules>
 
 
