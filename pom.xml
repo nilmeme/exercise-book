@@ -37,6 +37,7 @@
         <module>exercise-design-pattern</module>
         <module>exercise-moke</module>
         <module>exercise-spring-tx</module>
+        <module>exercise-io</module>
     </modules>
 
 
