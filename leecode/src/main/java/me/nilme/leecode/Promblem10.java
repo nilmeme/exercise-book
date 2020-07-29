@@ -1,7 +1,4 @@
-package me.nilme.exercise.java.concurrent.leecode;
-
-
-import java.util.PriorityQueue;
+package me.nilme.leecode;
 
 class Promblem10 {
 

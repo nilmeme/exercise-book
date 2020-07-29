@@ -1,6 +1,7 @@
 package me.nilme.exercise.java.design.demo;
 
-import me.nilme.exercise.design.Specification;
+
+import me.nilme.exercise.java.design.Specification;
 
 /**
  * @author weizhuang

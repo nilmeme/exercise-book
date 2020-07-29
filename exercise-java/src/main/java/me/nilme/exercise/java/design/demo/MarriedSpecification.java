@@ -1,6 +1,7 @@
 package me.nilme.exercise.java.design.demo;
 
-import me.nilme.exercise.design.CompositeSpecification;
+
+import me.nilme.exercise.java.design.CompositeSpecification;
 
 // 已婚
 public class MarriedSpecification extends CompositeSpecification {

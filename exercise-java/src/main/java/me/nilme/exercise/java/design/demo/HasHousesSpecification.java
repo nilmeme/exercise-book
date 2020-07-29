@@ -1,6 +1,7 @@
 package me.nilme.exercise.java.design.demo;
 
-import me.nilme.exercise.design.CompositeSpecification;
+
+import me.nilme.exercise.java.design.CompositeSpecification;
 
 // 有房
 public class HasHousesSpecification extends CompositeSpecification {

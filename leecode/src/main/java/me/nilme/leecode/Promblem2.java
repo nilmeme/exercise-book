@@ -1,4 +1,4 @@
-package me.nilme.exercise.java.concurrent.leecode;
+package me.nilme.leecode;
 
 /**
  * Created by nilme on 2020/1/9.

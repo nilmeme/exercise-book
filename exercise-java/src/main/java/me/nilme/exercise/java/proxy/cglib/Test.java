@@ -1,6 +1,6 @@
 package me.nilme.exercise.java.proxy.cglib;
 
-import me.nilme.exercise.proxy.Programmer;
+import me.nilme.exercise.java.proxy.Programmer;
 import net.sf.cglib.proxy.Enhancer;
 
 public class Test {

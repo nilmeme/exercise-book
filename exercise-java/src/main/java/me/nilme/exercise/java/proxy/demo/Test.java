@@ -1,7 +1,9 @@
 package me.nilme.exercise.java.proxy.demo;
 
 
-import me.nilme.exercise.proxy.MyGenerator;
+
+import javassist.*;
+import me.nilme.exercise.java.proxy.MyGenerator;
 
 import java.lang.reflect.Constructor;
 import java.net.URL;

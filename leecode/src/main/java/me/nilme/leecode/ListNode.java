@@ -1,4 +1,4 @@
-package me.nilme.exercise.java.concurrent.leecode;
+package me.nilme.leecode;
 
 public class ListNode {
     int val;

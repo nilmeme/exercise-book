@@ -1,4 +1,4 @@
-package me.nilme.exercise.java.concurrent.leecode;
+package me.nilme.leecode;
 
 import java.util.Stack;
 

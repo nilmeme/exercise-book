@@ -1,7 +1,4 @@
-package me.nilme.exercise.java.concurrent.leecode;
-
-
-import java.util.ArrayList;
+package me.nilme.leecode;
 
 class Promblem53 {
 
